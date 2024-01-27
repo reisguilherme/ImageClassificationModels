@@ -7,4 +7,6 @@ The 'EfficientNET,' 'ConvNeXt,' 'DenseNET,' 'MobileNET,' 'InceptionV3,' 'NASNET,
 
 
 
+
+
 ![image](https://github.com/reisguilherme/ImageClassificationModels/assets/91914800/12c35a0f-6e5b-44b7-8510-435299b2e707)
