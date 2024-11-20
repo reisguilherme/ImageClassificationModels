@@ -10,8 +10,3 @@ The 'EfficientNET,' 'ConvNeXt,' 'DenseNET,' 'MobileNET,' 'InceptionV3,' 'NASNET,
 
 
 ![image](https://github.com/reisguilherme/ImageClassificationModels/assets/91914800/3c129ee2-c80c-424a-b45d-4f7ac67f6af6)
-
-
-
-
-You can find the weigths here: [weigths](https://drive.google.com/drive/folders/11WTnJWdPYHr6X3yZolx4A23ggMHhpugN?usp=sharing)
